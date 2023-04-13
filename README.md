@@ -1,2 +1,2 @@
 # Desafio_04-Bootstrap
-Desafio orientado a replicar el modelo de una pagina de cupones responsiva.
+Desafio orientado a replicar con Bootstrap el modelo de una pagina de cupones responsiva.
